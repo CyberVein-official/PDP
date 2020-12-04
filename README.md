@@ -23,7 +23,7 @@ CyberVein PISR database data will be backed up on the DAG storage chain. At the 
 -Coding
 
 ```
-This bounty reward is 400USDT
+This bounty reward is 400USD equivalent CVT
 
 
 ## Contributors:
